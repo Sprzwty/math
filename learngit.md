@@ -5,12 +5,19 @@ marp: true
 ---
 ## 【basic command】
 ls -- list all
+
 cd -- go to path
+
 go to the upper menu, use 【cd ..】
+
 mkdir -- make a directory
+
 touch -- create a file
+
 pwd -- Print Working Directory
+
 echo -n --print the contents on the screen
+
 echo -n xxx > filename.txt -- write xxx to filename.txt
 
 ---
